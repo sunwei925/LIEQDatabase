@@ -13,7 +13,7 @@ We build a large-scale low-light image enhancement quality (LIEQ) database. The 
 [baidu yun](https://pan.baidu.com/s/1r6-puxEl-RnB721pKaxcXg) 提取码：ivip
 
 ## Citation
-**If you use CVIQ Database in your research, please cite**:
+**If you use LIEQ Database in your research, please cite**:
 ```
 @article{zhai2021perceptual ,
   title={Perceptual Quality Assessment of Low-light Image Enhancement},
