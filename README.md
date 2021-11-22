@@ -15,12 +15,15 @@ We build a large-scale low-light image enhancement quality (LIEQ) database. The 
 ## Citation
 **If you use LIEQ Database in your research, please cite**:
 ```
-@article{zhai2021perceptual ,
-  title={Perceptual Quality Assessment of Low-light Image Enhancement},
-  author={Zhai, Guangtao and Sun, Wei and Min, Xiongkuo and  Jiantao Zhou},
+@article{zhai2021perceptual,
+  title={Perceptual quality assessment of low-light image enhancement},
+  author={Zhai, Guangtao and Sun, Wei and Min, Xiongkuo and Zhou, Jiantao},
   journal={ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)},
+  volume={17},
+  number={4},
+  pages={1--24},
   year={2021},
-  publisher={ACM New York, NY, USA}
+  publisher={ACM New York, NY}
 }
 
 @inproceedings{zhang2021no,
